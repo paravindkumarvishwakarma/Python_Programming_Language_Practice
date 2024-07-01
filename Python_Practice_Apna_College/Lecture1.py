@@ -49,11 +49,60 @@ elif      import     raise
 a = 10
 b = 20 
 sum = a+b
-print("The sum of two number is : ",sum)
+print("The sum of two number is : ",sum, "\n")
 
 # Types of Tokens
 # Punctuators : Punctuators are symbols to organize sentence in programming
 # (). {}. @. [], # etc
+
+#Comments in Python 
+"""
+ctrl + / use for comment multiple line 
+# Single line comment
+""" """ Multiline Comment
+"""
+
+
+#Types of Operation
+print("Types of Operation")
+
+# a) Arithmetic Operators (+, -, *, /, %, **)
+
+
+# b) Relational / Comparison Operators (==, !=, >, <, >=, <=)
+# c) Assignment Operators (+, +=, -=, *=, /=, %=, **=)
+# d) Logical Operators (not, and, or)
+
+
+#Video = 50:40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
