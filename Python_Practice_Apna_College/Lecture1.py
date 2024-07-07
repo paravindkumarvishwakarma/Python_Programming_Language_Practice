@@ -67,14 +67,92 @@ ctrl + / use for comment multiple line
 print("Types of Operation")
 
 # a) Arithmetic Operators (+, -, *, /, %, **)
-
+a = 5
+b = 10
+c = 20
+print("\n")
+print(a+b)
+print(b-a)
+print(a*b)
+print(a/2)
+print(a % b)  #Remainder
+print(a ** b)  #a^b
 
 # b) Relational / Comparison Operators (==, !=, >, <, >=, <=)
+a = 50
+b = 20
+c = 50
+print("\n")
+print(a == b)
+print(a != b)
+print( a>= b)
+print(a <= b)
+print(a > b)
+print(a < b)
+print("\n")
+
 # c) Assignment Operators (+, +=, -=, *=, /=, %=, **=)
+print("Assisgnment Operator")
+num = 10
+num = num + 10  #10+10 = 20
+num += 10
+print("num :", num)
+print("\n")
+
+
 # d) Logical Operators (not, and, or)
+print("Logical Operator")
+print(not False)  #Return Opposite
+print(not True)   #Return Opposite
+print(not (a > b)) #Return Opposite
+
+Val1 = True
+Val2 = True
+Val3 = False
+print("and Operator:", Val1 and Val2)  #Both Value Equal
+print("OR Operator:", Val1 or Val2)    #One Condition True 
+print("\n")
+
+#Type Conversion
+print("Type Conversion")
+#Type Conversion = Automatically Convert by interpreter
+#Type Casting = Manually Convert
+var1 = 2
+var2 = 4.5
+
+sum = a + b #2.0 + 4.5 => 6.5
+print(sum)
+print("\n")
+
+#Type Casting
+print("Type Casting")
+a,b = 1, "2"
+c = int(b)
+sum = a + c
+
+a = 3.14
+a = str(a)
+print(type(a))
+print("\n")
+
+#Input in Python
+#Input by default is a string
+print("Input in python")
+name = input("Enter your name: ")
+print("Welcome", name)
+
+a = int(input("Enter your name : "))
+print("Age : ", a)
 
 
-#Video = 50:40
+
+
+
+
+
+
+
+
 
 
 
