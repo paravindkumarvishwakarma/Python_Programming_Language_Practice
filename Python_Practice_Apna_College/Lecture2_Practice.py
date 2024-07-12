@@ -64,11 +64,19 @@ str.capitalize() #Capitalize 1st character
 #str.find(word)  Return 1st index of 1st occurance
 str.count("ar") #Counts the occurance of substr in string
 
+#Capitalize function does not change in original string
 
-#Video : 22:23
+print("\n")
 
-
-
+#Conditional Statement
+"""if-elif-else(syntax)
+if(condition):
+    Statement1
+elif(condition):
+    statement2
+else:
+    statementN
+"""
 
 
 
