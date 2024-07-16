@@ -83,10 +83,19 @@ if (age >= 18):
 else:
     print("You cann't drive")
 
+
+print("\n")
+
+
+#Nested If else statement
+if (age >= 18):
+    if (age >= 80):
+        print("Cannot drive")
+    else:
+        print("Can drive")
+else:
+    print("Cannot drive")
     
-
-
-
 
 
 
