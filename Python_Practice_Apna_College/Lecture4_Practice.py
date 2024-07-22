@@ -4,6 +4,10 @@
 info = {
     "key" : "value",
     "name":"Paravind Kumar Vishwakarma",
-    "Learning" : "Coding"
+    "Learning" : "Coding",
+    "age":2,
+    "marks":94.5,
+    "Subject":["Mathematics", "Python", "DSA", "Operating System"],
+    "topics":("Python Intro", "List and methods")
 } 
 print(info)
