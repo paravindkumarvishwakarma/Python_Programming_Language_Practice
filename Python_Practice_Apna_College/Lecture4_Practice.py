@@ -12,4 +12,9 @@ info = {
 } 
 print(info)
 
+print(info["key"])
+print(info["name"])
+print(info["Learning"])
+
+
 
