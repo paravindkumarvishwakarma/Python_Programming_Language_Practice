@@ -6,3 +6,10 @@ Note:
 Area of a Square = side × side
 and, Perimeter = 4 x side
 """
+from re import A
+
+length = 4.5
+Area_of_Square = length * length
+print("Area of Square = ", Area_of_Square)
+Perimeter_of_Square = 4 * length
+print("Permeter of Square = ", Perimeter_of_Square)
