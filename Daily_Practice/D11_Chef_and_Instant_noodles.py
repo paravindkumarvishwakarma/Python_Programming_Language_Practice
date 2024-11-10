@@ -26,4 +26,4 @@ Constraints
 """
 x = int(input("Enter the number of stoves: "))
 y = int(input("Enter the numer of minutes: "))
-print(x * y)
+print("Maximum Number of noodles can be served = ", x * y)
