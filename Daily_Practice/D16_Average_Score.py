@@ -14,8 +14,11 @@ Output on a single line the average score of students in these three subjects.
 """
 # cook your dish here
 try:
-  X, Y, Z = map(float, input("Enter exactly three scores separated by space: ").split())
+  X, Y, Z = map(
+      float,
+      input("Enter exactly three scores separated by space: ").split())
   print("Average score =", (X + Y + Z) / 3)
 except ValueError:
-  print("Error: Please enter exactly three numerical scores separated by spaces.")
-
+  print(
+      "Error: Please enter exactly three numerical scores separated by spaces."
+  )
