@@ -64,3 +64,4 @@ users = current_users(events)
 print(users)
 
 generate_report(users)
+print("hello world")
