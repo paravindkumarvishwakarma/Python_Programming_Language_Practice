@@ -1,0 +1,54 @@
+Todays Leaned on Video and Need to Practice
+
+a) Variable and Data Types Completed
+b) Typecasting in Python - Completed
+
+Typecasting methods - Completed
+int(); Converts to integer
+float(): Convert to float
+str(): Convert to string
+bool(): Converts to boolean
+
+
+Taking Input
+a) Check one by one
+b) Take input from user
+c) Take in without any prompt
+d) Take input with prompt
+e) Take user input and add two number
+f) Take a input from user which is in string format then type cast the input and add with number 4
+
+Comments, Escape Sequences & Print statement
+a) Single Line Comments
+b) Multiline Comments
+c) Escape Seqence character
+d) Check Print function with multiple testing possibilities
+e) In print use end=" " function
+
+Operators in Pythons
+a) Arithmetic Operators
+b) Comparison Operators
+c) Conditional Operators
+d) Logical Operators (And, Or and Not)
+e) Assignment Operators
+f) Membership Operators
+g) Identity Operators
+
+If-else statement
+a) If else statement
+b) Nested If else statement
+c) Solve some question from Co pilot
+d) Solve some question from Gemini
+e) Solve Some question from Perpexility
+g) Solve Some question from grok
+h) Solve some question from ChatGPT
+
+Match Cases in Python
+a) Use cases fuunctions
+b) Solve some geeks for geeks
+c) Solve some question from Co pilot
+d) Solve some question from Gemini
+e) Solve Some question from Perpexility
+g) Solve Some question from grok
+h) Solve some question from ChatGPT
+
