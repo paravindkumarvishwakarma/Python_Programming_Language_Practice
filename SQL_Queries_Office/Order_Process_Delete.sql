@@ -11,6 +11,7 @@ update s set actstat=0 from vtmmhordrprocessupdt s where projcode=101000382602 a
 update s set actstat=0  from vtmmdordrprocessupdt s where serialno=101000001413
 Rollback
 
+--If Termamt & Balamt is same then can proceed
 
 in  that 3rd query if termamt and balamt getting mismatched den contact dev team
 
@@ -20,16 +21,3 @@ update s set actstat=0,trnusrid = -1219,trndate = GETDATE() from vtmmhordrproces
 update s set actstat=0,trnusrid = -1219,trndate = GETDATE() from vtmmdordrprocessupdt s where serialno=101000001413 
 update s set actstat=0,trnusrid = -1219,trndate = GETDATE() from [vtamhimpayrequest] s where serialno=101000010139
 Rollback
-
-
-
-Order Number: EP-1241/LPO/MAT/0002
-
-Order Process Update: 202 - Deleted
-Sernial Number: 101000001413
-
-Order Process Update: 205 - deleted
-Serial Number: 101000001413
-
-Order Process Update: 206
-Serial Number: 101000001413
