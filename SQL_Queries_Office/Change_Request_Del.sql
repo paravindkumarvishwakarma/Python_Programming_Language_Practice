@@ -11,7 +11,7 @@ woslno(wono) Fetch from above line select *
 */
 
 Begin tran
-EXEC [PoppyT].[uisp_Up_Changeorderdelete] 'Initno',Proslno(Projfcd),woslno(wono)
+EXEC [PoppyT].[uisp_Up_Changeorderdelete] 'CRNo',Proslno(Projfcd),woslno(wono)
 Rollback
 
 -- Video Link: https://padamsin-my.sharepoint.com/:v:/g/personal/paravind_padams_in/EZx5vkfsIvFEmcH0M72FjyQB5mWal3QitILK7TgsfZzqEw?e=J0otZQ

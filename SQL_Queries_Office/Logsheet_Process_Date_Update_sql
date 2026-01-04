@@ -1,8 +1,0 @@
-logsheet query
-dont use directly  i will guide u 
-select * from vtmmhbillentry where refdslno = ''
-
-1.select * from vtexhloghsheet where logshtno = ''--take serial no 1st n 3rd line replace 
-if bill not entered then we can update 
-
---update vtexhloghsheet set fromdat = '',todat = '' where serialno =
