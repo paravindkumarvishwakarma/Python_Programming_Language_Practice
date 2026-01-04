@@ -1,0 +1,12 @@
+Skipping the staging area
+a) To commit changes directly without staging:
+	Command: git commit -a -m "Your commit message here"
+	
+	Note: The -a flag in the git commit command serves the purpose of 	automatically staging all tracked files that have been modified 	before committing them.
+
+b) To view the commit history:
+Command: git log
+
+c) D
+d) 
+
