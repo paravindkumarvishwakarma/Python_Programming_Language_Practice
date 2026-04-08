@@ -5,7 +5,7 @@ print(type(A))
 B = 10 #integer variable
 print(type(B))
 
-C = 20.5 #float variable
+C = 10.05 #float variable
 print(type(C))
 
 d= True #boolean variable
