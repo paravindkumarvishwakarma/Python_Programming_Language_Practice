@@ -9,5 +9,7 @@ Celsius - 25.5
 Kelvin - 298.5
 """
 Temperature = 25.5
+Fahrenheit = (Temperature * 9 / 5) + 32
 print("Celsius - ", Temperature)
 print("Kelvin - ", Temperature + 273)
+print("Fahrenheit - ", Fahrenheit)
